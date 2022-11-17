@@ -2,8 +2,8 @@ Olá! Eu sou Bruna Alves, FRONT-END DEVELOPER
 
 <div align="center">
   <a href="https://github.com/BrunaAlves05">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BrunaAlves05&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunaAlves05&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=BrunaAlves05&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunaAlves05&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 ##
