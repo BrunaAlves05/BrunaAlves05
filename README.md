@@ -1,4 +1,4 @@
-Olá! Eu sou Bruna Alves, FRONT-END DEVELOPER
+Helloo! I'm Bruna Alves, FRONT-END DEVELOPER
 
 <div align="center">
   <a href="https://github.com/BrunaAlves05">
